@@ -1,4 +1,4 @@
-Pandas version==2.2.2
+pandas==2.0.3
 NumPy version==1.26.4
 Matplotlib version==3.8.0
 Seaborn version==0.13.2
