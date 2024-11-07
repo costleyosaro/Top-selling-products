@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib  # For loading the saved model
+import sklearn
 from sklearn.preprocessing import OneHotEncoder
 
 # Load the trained model and encoder
